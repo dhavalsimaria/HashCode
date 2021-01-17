@@ -35,9 +35,9 @@ HELP.md
 
 ### IntelliJ IDEA ###
 .idea
-*/.idea/
-*.iws
+.idea/
 *.iml
 /*.iml
+*.iws
 *.ipr
 out
